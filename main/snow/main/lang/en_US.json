@@ -1,0 +1,15 @@
+{
+  "noinguild": "Please use this command in the guild",
+  "ping": "ping",
+  "Selectlang": "This group has been changed to en_US language",
+  "alrlang": "The current language of this group is en_US, please try to choose another language",
+  "notpermission": "ou do not have permission to use",
+  "setsuccess": "Setup complete",
+  "balance":"balance: ",
+  "helpCT": "help center",
+  "help_project": "Please select the project you need",
+  "project": "project",
+  "money_system": "money system",
+  "common_problem": "common problem"
+
+}

@@ -1,0 +1,17 @@
+{
+  "noinguild": "请在伺服器内使用此指令",
+  "ping": "延迟",
+  "Selectlang": "本群已更改为zh_CN语言",
+  "alrlang": "本群当前语言已是zh_CN，请尝试选择其他语",
+  "notpermission": "你没有权限使用",
+  "setsuccess": "设定完成",
+  "balance":"余额: ",
+  "helpCT": "帮助中心",
+  "help_project": "您需要选择的项目",
+  "project": "项目",
+  "money_system": "金钱系统",
+  "common_problem": "常见问题"
+
+
+}
+

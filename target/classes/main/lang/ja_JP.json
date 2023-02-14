@@ -1,0 +1,19 @@
+{
+  "noinguild": "サーバーでこのコマンドを使用してください",
+  "ping": "遅れ",
+  "Selectlang": "このグループは ja_JP 言語に変更されました",
+  "alrlang": "このグループの現在の言語は ja_JP です。別の言語を選択してください",
+  "notpermission": "あなたは使用する許可がありません",
+  "setsuccess": "セットアップ完了",
+  "balance":"バランス: ",
+  "helpCT": "ヘルプセンター",
+  "help_project": "必要な項目を選択してください",
+  "project": "プロジェクト",
+  "money_system": "マネーシステム",
+  "common_problem": "よくある問題"
+
+
+
+
+
+}
