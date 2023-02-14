@@ -26,6 +26,7 @@
 
 <h4 align="center">
     <b>這機械人擁有基本機械人的功能,還有多語言,金錢系統等</b>
+    <b>This bot has basic bot functions, as well as multi-language, money system, etc.</b>
 <h4>
 
 ---
@@ -40,46 +41,47 @@ It is strictly forbidden to embezzle the code of this repository to set up anoth
   
 ---
   
-<h1 align="center"><b>開發相關人員</b></h1>
+<h1 align="center"><b>開發相關人員|Development staff</b></h1>
 <p align="center">
     </br><table align="center">
         <tr align="center">
-            <td align="center">主要開發者</td>
+            <td align="center">主要開發者|main developer</td>
             <td align="center"><a href="https://github.com/weslychan1212" alt="雪球(snowball_213)"><b>雪球(snowball_213)</b></a></td>
         </tr>
     </table></br>
     <table align="center">
         <tr align="center">
-            <td align="center">貢獻內容</td>
-            <td align="center">貢獻人員</td>
+            <td align="center">貢獻內容|Contribute</td>
+            <td align="center">貢獻人員|Contributors</td>
         </tr>
         <tr align="center">
-            <td align="center">提供技術支持</td>
+            <td align="center">提供技術支持|provide technical support</td>
             <td align="center"><a href="https://github.com/Kevin28576" alt="Kevin(Kevin)"><b>Kevin(Kevin)</b></td>
     	<tr align="center">
-            <td align="center">提供技術支持</td>
+            <td align="center">提供技術支持|provide technical support</td>
             <td align="center"><a href="https://github.com/LuLucutelol" alt="小飛(小飛)"><b>小飛(小飛)</b></td>
         <tr align="center">
-            <td align="center">協助代碼編寫</td>
+            <td align="center">協助代碼編寫|Assist with coding</td>
             <td align="center"><a href="https://github.com/IceLeiYu" alt="新手(IceXinShou)"><b>新手(IceXinShou)</b></td>
         <tr align="center">
-            <td align="center">建議</td>
+            <td align="center">建議|suggestion</td>
             <td align="center"><a href="https://github.com/IceLeiYu" alt="新手(IceXinShou)"><b>新手(IceXinShou)</b></td>
         </tr>
     </table>
 </p>
 
 ---
-<h1 align="center"><b>相關指令</b></h1>
+<h1 align="center"><b>相關指令|Related directives</b></h1>
                 <h2 align="center"><b>/ping [查看延遲|View Latency]</b></h2>
                 <h2 align="center"><b>/help [機械人使用教學|bot help]</b></h2>
-<h1 align="center"><b>金錢系統</b></h1>
+<h1 align="center"><b>金錢系統|money system</b></h1>
                 <h2 align="center"><b>/givemoney [發迭金錢|give money] only admin </b></h2>
                 <h2 align="center"><b>/setmoney [設定金錢|set money] only admin </b></h2>
                 <h2 align="center"><b>/money [查看金錢|check money] </b></h2>
-<h1 align="center"><b>多語言</b></h1>              
+<h1 align="center"><b>多語言|multi-language</b></h1>              
                 <h2 align="center"><b>/lang [更換語言|change the group lang] only admin </b></h2>
                 <h2 align="center"><b>目前支持zh_TW, zh_CN, en_US, ja_JP </b></h2>
+                <h2 align="center"><b>currently supported: zh_TW, zh_CN, en_US, ja_JP</b></h2>
 ---
 <p align="center">版權所有© 2022 NRTS</p>
 <p align="center">Copyright © 2022 NRTS  All rights reserved</p>
