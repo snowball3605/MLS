@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://discord.com/api/oauth2/authorize?client_id=869150235073601537&permissions=8&scope=bot%20applications.commands">[邀請機器人]</a>
+<a href="https://discord.com/api/oauth2/authorize?client_id=869150235073601537&permissions=8&scope=bot%20applications.commands">[邀請機器人|invite bot]</a>
 </p>
 
 ---
