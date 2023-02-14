@@ -83,5 +83,5 @@ It is strictly forbidden to embezzle the code of this repository to set up anoth
                 <h2 align="center"><b>目前支持zh_TW, zh_CN, en_US, ja_JP </b></h2>
                 <h2 align="center"><b>currently supported: zh_TW, zh_CN, en_US, ja_JP</b></h2>
 ---
-<p align="center">版權所有© 2022 NRTS</p>
-<p align="center">Copyright © 2022 NRTS  All rights reserved</p>
+<p align="center">版權所有© 2022-2023 NRTS</p>
+<p align="center">Copyright © 2022-2023 NRTS  All rights reserved</p>
