@@ -35,7 +35,7 @@
 <h2 align="center"></br>禁止進行任何的抄襲動作!</br>嚴禁盜用本儲存庫代碼另行架設機器人或使用本儲存庫代碼進行二創!<h2>
     <h2 align="center"></br>Any plagiarism is prohibited!</br>
 It is strictly forbidden to embezzle the code of this repository to set up another robot or use the code of this repository for second creation!<h2> 
-    <h2 align="center"></br>目前正在開發中請謹慎使用如果似情況導致出現損失我們不會賠償</br>
+    <h2 align="center"></br>目前正在開發中請謹慎使用如果似情況導致出現損失我們不會賠償\nIt is currently under development, please use it with caution. We will not compensate for losses caused by similar situations.</br>
   
 ---
   
