@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">
-        <b>🙂NMNTR🙂</b>
+        <b>MFST</b>
     </h1>
 </p>
 
@@ -12,12 +12,12 @@
 
 <p align="center">
     <a href="https://github.com/weslychan1212">
-        <img alt="NRTSBOT擁有者" src="https://img.shields.io/badge/NRTSBOT擁有者-雪球(snowball_213)-blue.svg?style=for-the-badge&logo=github" />
+        <img alt="MFST擁有者" src="https://img.shields.io/badge/MFSTBOT擁有者-雪球(snowball_213)-blue.svg?style=for-the-badge&logo=github" />
     </a>
     <a href="https://discord.com/">
         <img alt="Disnake" src="https://img.shields.io/badge/Discord版本-V2.5.1-blue.svg?style=for-the-badge&logo=discord" />
     </a>
-    <a href="https://discord.gg/hJHpw8qnEk">
+    <a href="https://discord.gg/X3kCVbK2ts">
         <img alt="Disnake" src="https://img.shields.io/discord/1011843699975667773?style=for-the-badge&logo=discord&label=加入我們|join us" />
     </a>
 </p>
@@ -25,7 +25,7 @@
 ---
 
 <h4 align="center">
-    <b>這機械人擁有基本機械人的功能,還有大量功能開發中</b>
+    <b>這機械人擁有基本機械人的功能,還有多語言,金錢系統等</b>
 <h4>
 
 ---
@@ -69,13 +69,15 @@ It is strictly forbidden to embezzle the code of this repository to set up anoth
 
 ---
 <h1 align="center"><b>相關指令</b></h1>
-                <h2 align="center"><b>/ban [封鎖用戶|ban member]</b></h1>
-                <h2 align="center"><b>/unban [解除封鎖用戶|unban member]</b></h2>
                 <h2 align="center"><b>/ping [查看延遲|View Latency]</b></h2>
                 <h2 align="center"><b>/help [機械人使用教學|bot help]</b></h2>
-                <h2 align="center"><b>/status [查看機械人狀態|Check Robot Status]</b></h2>
-                <h2 align="center"><b>/clear [清除訊息指定數量|Clear the specified number of messages]</b></h2>
-                
+<h1 align="center"><b>金錢系統</b></h1>
+                <h2 align="center"><b>/givemoney [發迭金錢|give money] only admin </b></h2>
+                <h2 align="center"><b>/setmoney [設定金錢|set money] only admin </b></h2>
+                <h2 align="center"><b>/money [查看金錢|check money] </b></h2>
+<h1 align="center"><b>多語言</b></h1>              
+                <h2 align="center"><b>/lang [更換語言|change the group lang] only admin </b></h2>
+                <h2 align+"center"><b>目前支持zh_TW, zh_CN, en_US, ja_JP </b></h2>
 ---
 <p align="center">版權所有© 2022 NRTS</p>
 <p align="center">Copyright © 2022 NRTS  All rights reserved</p>
