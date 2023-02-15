@@ -78,6 +78,7 @@ It is strictly forbidden to embezzle the code of this repository to set up anoth
                 <h2 align="center"><b>/givemoney [發迭金錢|give money] only admin </b></h2>
                 <h2 align="center"><b>/setmoney [設定金錢|set money] only admin </b></h2>
                 <h2 align="center"><b>/money [查看金錢|check money] </b></h2>
+                <h2 align="center"><b>/delmoney [刪除金錢| del money] </b></h2>
 <h1 align="center"><b>多語言|multi-language</b></h1>              
                 <h2 align="center"><b>/lang [更換語言|change the group lang] only admin </b></h2>
                 <h2 align="center"><b>目前支持zh_TW, zh_CN, en_US, ja_JP </b></h2>
