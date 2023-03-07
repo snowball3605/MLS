@@ -15,9 +15,9 @@
     <b>using tutorial| 使用教學</b>
     </h1>
     <h1 align="center">
-    <a href="https://github.com/snowball3605/MLS-useing-tutorial/blob/main">English,</a>
-    <a href="https://github.com/snowball3605/MLS-useing-tutorial/blob/main">Traditional Chinese,</a>
-    <a href="https://github.com/snowball3605/MLS-useing-tutorial/blob/main">Simplified Chinese,</a>
-    <a href="https://github.com/snowball3605/MLS-useing-tutorial/blob/main">japanese</a>
+    <a href="https://github.com/snowball3605/MLS-useing-tutorial">English,</a>
+    <a href="https://github.com/snowball3605/MLS-useing-tutorial">Traditional Chinese,</a>
+    <a href="https://github.com/snowball3605/MLS-useing-tutorial">Simplified Chinese,</a>
+    <a href="https://github.com/snowball3605/MLS-useing-tutorial">japanese</a>
     </h1>
 </p>
