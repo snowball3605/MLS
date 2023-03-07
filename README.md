@@ -16,5 +16,6 @@
     </h1>
     <h1 align="center">
     <a href="https://github.com/snowball3605/MLS-useing-tutorial/blob/main/english.md">English</a>
+    <a href="https://github.com/snowball3605/MLS-useing-tutorial/blob/main/Chinese.md">Chinese</a>
     </h1>
 </p>
