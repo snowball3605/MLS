@@ -14,5 +14,7 @@
 <h1 align="center">
     <b>using tutorial| 使用教學</b>
     </h1>
+    <h1 align="center">
     <a href="https://github.com/snowball3605/MLS-useing-tutorial/blob/main/english.md">English</a>
+    </h1>
 </p>
